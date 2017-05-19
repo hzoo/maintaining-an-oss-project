@@ -7,6 +7,6 @@
 
 [Maintaining an OSS Project (Babel)](http://henryzoo.com/maintaining-an-oss-project)
 
-## Video
+## Video (16:00)
 
 [![Video](http://i.imgur.com/R1f5ecI.jpg)](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE)
