@@ -10,3 +10,8 @@
 ## Video (16:00)
 
 [![Video](http://i.imgur.com/R1f5ecI.jpg)](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=_iToM2KC0QE)
+
+## Other Related Talks
+
+- React Boston 2017: https://github.com/hzoo/maintainer-heal-thyself
+- React Rally 2017: https://github.com/hzoo/so-how-does-babel-even-work
